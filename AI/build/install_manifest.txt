@@ -1,0 +1,6 @@
+/home/aislan/Downloads/RoboFEI-HT_Debug-master/AI/build/lib/libblackboard.so
+/home/aislan/Downloads/RoboFEI-HT_Debug-master/AI/build/lib/libblackboardpy.so
+/home/aislan/Downloads/RoboFEI-HT_Debug-master/AI/build/lib/liblibcontrol.so
+/home/aislan/Downloads/RoboFEI-HT_Debug-master/AI/build/lib/libvision.so
+/home/aislan/Downloads/RoboFEI-HT_Debug-master/AI/build/lib/libcomms.so
+/home/aislan/Downloads/RoboFEI-HT_Debug-master/AI/build/lib/libregisters.so
