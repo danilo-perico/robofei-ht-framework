@@ -1,15 +1,18 @@
-# robofei-ht-framework
+# Humanoid Robot Framework for Research on Cognitive Robotics
+
+This framework is fully described in the article Humanoid Robot Framework for Research on Cognitive Robotics \[[1]].
 
 ## AI: Artificial Intelligence for Humanoid Robots
 
-AI is built upon the Cross Architecture \[[1]] \[[2]]. Some methods used for the Vision System can be found in \[[3]] and \[[4]]. A Control technique applied to improve the robot's stability can be found in \[[5]]. A qualitative localization studied for the robot can be found in \[[6]].
+AI is built upon the Cross Architecture \[[2]] \[[3]]. Some methods used for the Vision System can be found in \[[4]] and \[[5]]. A Control technique applied to improve the robot's stability can be found in \[[6]]. A qualitative localization studied for the robot can be found in \[[7]].
 
-[1]: http://dx.doi.org/10.1109/SBR.LARS.Robocontrol.2014.39
-[2]: http://dx.doi.org/10.1007/978-3-662-48134-9_4
-[3]: http://dx.doi.org/10.1109/SBR.LARS.Robocontrol.2014.51
-[4]: http://dx.doi.org/10.1109/LARS-SBR.2015.43
-[5]: http://dx.doi.org/10.1109/LARS-SBR.2015.41
-[6]: http://dx.doi.org/10.1109/LARS-SBR.2015.44
+[1]: https://doi.org/10.1007/s40313-018-0390-y
+[2]: http://dx.doi.org/10.1109/SBR.LARS.Robocontrol.2014.39
+[3]: http://dx.doi.org/10.1007/978-3-662-48134-9_4
+[4]: http://dx.doi.org/10.1109/SBR.LARS.Robocontrol.2014.51
+[5]: http://dx.doi.org/10.1109/LARS-SBR.2015.43
+[6]: http://dx.doi.org/10.1109/LARS-SBR.2015.41
+[7]: http://dx.doi.org/10.1109/LARS-SBR.2015.44
 
 ### Setup
 
