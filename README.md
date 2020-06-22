@@ -23,6 +23,8 @@ RoboFEI-HT simulator used for developing AI (decision, localization, planning et
 
 1. Once the AI is compiled, run *./start_simulator.sh* for running the simulator and the AI
 
+2. Add the robots to the field. For exemple, for adding a blue robot, press *A* (press *F1* for all options)
+
 ### Changing objects' positions
 
 **Robots:** It is possible to change the position of the robots by pressing the number of the robot + *INSERT*. Example: if I want to change robot 1 position I will press *1* followed by *INSERT*. The robot will be moved following the mouse pointer position. The orientation will be random.
